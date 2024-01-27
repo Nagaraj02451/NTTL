@@ -8,6 +8,7 @@ import Home2 from './Component/LandingPage/Home2'
 import About from './Component/About/About'
 import Solution from './Component/Solution/Solution'
 import Consulting from './Component/Consulting/Consulting'
+import Industry from './Component/Industry/Industry'
 function App() {
   return (
     <>
@@ -19,6 +20,7 @@ function App() {
           <Route path='/about' element={<About />}></Route>
           <Route path='/solution' element={<Solution />}></Route>
           <Route path='/consulting' element={<Consulting />}></Route>
+          <Route path='/industry' element={<Industry />}></Route>
         </Routes>
         <Footer />
       </BrowserRouter>

@@ -61,6 +61,9 @@ function About() {
        <br />
   </div>
  </main>
+ <div className='letstalk'>
+   <div className='vhgv'>Let's connect <p className='cyfhv'><img src='/images/arrow.png' /></p></div>
+ </div>
 </>
   )
 }

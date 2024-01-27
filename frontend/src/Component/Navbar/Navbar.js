@@ -17,7 +17,7 @@ function Navbar() {
                       <a href='/solution'> <div className='pages'>Solutions</div></a>  
                         <a href='/consulting'><div className='pages'>Consulting</div></a>
                         <div className='pages'>Our Process</div>
-                        <div className='pages'>Industries</div>
+                      <a href="/industry"><div className='pages'>Industries</div></a>
                         <div className='connect'>Let's Connect</div>
                         <div className='linehead'>
                             <div className='lineinter'></div>

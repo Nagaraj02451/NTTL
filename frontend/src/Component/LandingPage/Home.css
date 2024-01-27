@@ -74,11 +74,35 @@ line-height: 29.643px;
     /* border: 1px solid red; */
     background: rgba(45, 49, 51, 0.20);
 }
+.industryinner{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.industrydatas{
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    gap: 70px;
+}
+.induatryimagedata{
+    width: 56px;
+height: 43px;
+}
+.induatryimagedata img{
+    width: 100%;
+    height: 100%;
+}
 .arewho{
     display: flex;
     justify-content: space-between;
-    height: 8vh;
+    height: 9vh;
     margin-top: 20px;
+}
+.arewhoinsus{
+    display: flex;
+    justify-content: space-between;
+    height: 18vh;
+    margin-top: 20px; 
 }
 .areinner{
     width: 40%;
@@ -251,4 +275,7 @@ margin-left: 65px;
 }
 .hgfgvewdag{
     padding-left: 35px;
+}
+.insutry{
+    margin-top: 60px;
 }
