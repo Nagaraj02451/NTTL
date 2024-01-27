@@ -1,0 +1,35 @@
+@font-face {
+  font-family: Regular;
+  src: url("../public/Cera/Cera-Regular.ttf");
+}
+@font-face {
+  font-family: Bold;
+  src: url("../public/Cera/Cera-Bold.ttf");
+}
+@font-face {
+  font-family: Light;
+  src: url("../public/Cera/Cera-Light.ttf");
+}
+@font-face {
+  font-family: Medium;
+  src: url("../public/Cera/Cera-Medium.ttf");
+}
+@font-face {
+  font-family: Light;
+  src: url("../public/Cera/Cera-Medium.ttf");
+}
+@font-face {
+  font-family: Thin;
+  src: url("../public/Cera/Cera-Thin.ttf");
+}
+@font-face {
+  font-family: BlackF;
+  src: url("../public/Cera/Cera-Black.ttf");
+}
+a{
+  text-decoration: none;
+  color: #1a1a1a;
+}
+a:hover{
+  color: #0A71FE;;
+}
